@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Heilbronn"
+	},
+	"portal": {
+        "url": "https://www.lubw.baden-wuerttemberg.de/luft/messwerte-immissionswerte#karte",
+		"title": "Luftqualitaet",
+		"description": "Alle Tarife der heilbronner Linien",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Luftqualitaet",
+		"author": "post@wienerlinien.at ",
+		"created": "2014-09-23",
+		"updated": "2016-02-29"
+	},
+	"front": {
+		"textTop": "Durchschnitt Stickstoffdioxid µg/m3",
+		"textBottom": "in der Weinsbergerstrasse",
+		"value": "52 µg/m³",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/ground.svg",
+		"color": "#e3e300"
+	},
+	"back": {
+		"text": "Mehr Messdaten findet man hier:",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

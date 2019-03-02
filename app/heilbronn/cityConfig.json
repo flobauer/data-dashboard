@@ -13,6 +13,9 @@
 		"heilbronn/code-for-heilbronn.json",
 		"vienna/help.json",
 		"heilbronn/kinder-vorname-m.json",
-		"heilbronn/kinder-vorname-w.json"
+		"heilbronn/kinder-vorname-w.json",
+		"heilbronn/fahrschein.json",
+		"heilbronn/luftqualitaet.json"
+
 	]
 }
