@@ -7,10 +7,14 @@
 		"background": "heilbronn/heilbronn.jpg",
 		"uri": "http://datenwaben.de/"
 	},
-	"data": {
-	},
+	"data": {},
 	"cards": [
 		"heilbronn/code-for-heilbronn.json",
-		"vienna/help.json"
+		"vienna/help.json",
+		"heilbronn/einwohner-unter-14-jahren.json",
+		"heilbronn/einwohner-unter-18-jahren.json",
+		"heilbronn/einwohner.json",
+		"heilbronn/prozent-frauen.json",
+		"heilbronn/stolpersteine.json"
 	]
 }
