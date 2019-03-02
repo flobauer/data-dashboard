@@ -7,12 +7,30 @@
 		"background": "heilbronn/heilbronn.jpg",
 		"uri": "http://datenwaben.de/"
 	},
-	"data": {
-	},
+	"data": {},
 	"cards": [
 		"heilbronn/code-for-heilbronn.json",
 		"vienna/help.json",
 		"heilbronn/kinder-vorname-m.json",
-		"heilbronn/kinder-vorname-w.json"
+		"heilbronn/kinder-vorname-w.json",
+		"heilbronn/trees-biberach.json",
+		"heilbronn/trees-boeckingen.json",
+		"heilbronn/trees-frankenbach.json",
+		"heilbronn/trees-hn-aeussere-bezirke.json",
+		"heilbronn/trees-hn-innenstadt.json",
+		"heilbronn/trees-horkheim.json",
+		"heilbronn/trees-kirchhausen.json",
+		"heilbronn/trees-klingenberg.json",
+		"heilbronn/trees-neckargartach.json",
+		"heilbronn/trees-sontheim.json",
+		"heilbronn/treekinds-ahornblaettrige-platane.json",
+		"heilbronn/treekinds-apfelbaumart.json",
+		"heilbronn/treekinds-berg-ahorn.json",
+		"heilbronn/treekinds-feld-ahorn.json",
+		"heilbronn/treekinds-gemeine-esche.json",
+		"heilbronn/treekinds-gemeine-hainbuche.json",
+		"heilbronn/treekinds-krim-linde.json",
+		"heilbronn/treekinds-spitz-ahorn.json",
+		"heilbronn/treekinds-stiel-eiche.json"
 	]
 }
