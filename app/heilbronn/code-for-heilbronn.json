@@ -1,0 +1,34 @@
+{
+"location":{
+	"country":"Germany",
+	"city":"Heilbronn"
+},
+"portal":{
+	"url":"https://codeforheilbronn.de",
+	"title":"Code for Heilbronn e.V.",
+	"description":"",
+	"license":"",
+	"licenseURL":"",
+	"attribution":"",
+	"author":"",
+	"created":"2019-03-01",
+	"updated":"2019-03-01"
+},
+"front":{
+	"textTop":"",
+	"textBottom":"",
+	"value":"",
+	"unit":"",
+	"changePerDay":0,
+	"format":"",
+	"background":"img/codeforheilbronn.svg",
+	"color":"",
+	"cssClass":""
+},
+"back":{
+	"text":"Dieses Dashboard entstand beim Open Data Day 2019 bei Code for Heilbronn",
+	"background":"",
+	"color":"#000000",
+	"cssClass":""
+}
+}

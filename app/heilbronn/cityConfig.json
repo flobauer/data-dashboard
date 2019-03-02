@@ -1,0 +1,16 @@
+{
+	"meta": {
+		"mail": "info@codeforheilbronn.de",
+		"twitter": "https://twitter.com/codeforhn",
+		"github": "https://github.com/opendata-heilbronn/data-dashboard/",
+		"showMenuCity": true,
+		"background": "heilbronn/heilbronn.jpg",
+		"uri": "http://datenwaben.de/"
+	},
+	"data": {
+	},
+	"cards": [
+		"heilbronn/code-for-heilbronn.json",
+		"vienna/help.json"
+	]
+}

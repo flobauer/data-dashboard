@@ -38,6 +38,13 @@ var config = config || {
 			group: 'city'
 		},
 		{
+			name: 'Heilbronn',
+			country: 'Germany',
+			path: 'heilbronn',
+			badge: 'Alpha',
+			group: 'city'
+		},
+		{
 			name: 'Köln',
 			country: 'Germany',
 			path: 'cologne',
@@ -78,7 +85,7 @@ var config = config || {
 			path: 'nrw',
 			badge: 'Alpha',
 			group: 'portal'
-		}
+		},
 	],
 	templates: [
 		{
