@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Heilbronn"
+	},
+	"portal": {
+        "url": "https://www.h3nv.de/fahrscheine/fahrkarten-preise/tageskarten.html",
+		"title": "Tarife Wiener Linien",
+		"description": "Alle Tarife der heilbronner Linien",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Wiener Linien",
+		"author": "post@wienerlinien.at ",
+		"created": "2014-09-23",
+		"updated": "2016-02-29"
+	},
+	"front": {
+		"textTop": "Eine Tageskarte kostet",
+		"textBottom": "für Erwachsene",
+		"value": "4.80",
+		"unit": "€",
+		"changePerDay": "",
+		"format": "euro",
+		"background": "img/coin.svg",
+		"color": "#000000"
+	},
+	"back": {
+		"text": "Mehr Informationen zu den Tarifen des HNV findet man hier:",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
