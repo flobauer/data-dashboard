@@ -1,0 +1,29 @@
+
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://www.stuttgarter-nachrichten.de/inhalt.baden-wuerttemberg-temposuender-und-falschparker-fuellen-kassen-der-kommunen.f13206ee-8e74-4b20-97c1-2972d7477f56.html",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Heilbronn hat 2017 1,1 Mio EUR an Bußgeldern durch Parkverstöße eingenommen",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "Parkverstöße bringen gerade",
+        "textBottom": "ein",
+        "value": "0",
+        "unit": "€",
+        "changePerDay": "3013",
+        "format": "int",
+        "background": "img/coin.svg",
+        "color": "#000000"
+    }
+}
