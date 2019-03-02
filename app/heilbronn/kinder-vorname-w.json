@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Heilbronn"
+	},
+	"portal": {
+		"url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/standesamt/Vornamenstatistik_2018.pdf",
+		"title": "Vornamenstatistik vom 1.1.2018 bis 31.12.2018",
+		"description": "Die Vornamensstatistik für das Jahr 2018 des Standesamtes Heilbronn",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "Standesamt Heilbronn",
+		"created": "2019-01-03",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Häufigster Babyname:",
+		"textBottom": "für Mädchen",
+		"value": "Mia",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/book.svg",
+		"color": "#57006c"
+	},
+	"back": {
+		"text": "Mia wurde 24 mal vergeben, kurz gefolgt von Lea und Lina",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
