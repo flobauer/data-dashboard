@@ -4,9 +4,9 @@
 		"city": "Heilbronn"
 	},
 	"portal": {
-        "url": "https://www.lubw.baden-wuerttemberg.de/luft/messwerte-immissionswerte#karte",
-		"title": "Luftqualitaet",
-		"description": "co2 Werte Weinsbergerstrasse",
+        "url": "https://de.webcams.travel/webcam/fullscreen/1207147407/",
+		"title": "Webcam",
+		"description": "webcam Heilbronn",
 		"license": "Creative Commons Namensnennung Lizenz",
 		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
 		"attribution": "Luftqualitaet",
@@ -15,9 +15,9 @@
 		"updated": "2016-02-29"
 	},
 	"front": {
-		"textTop": "Luftqualität",
-		"textBottom": "Weinsbergerstasse",
-		"value": "52 µg/m³",
+		"textTop": "Webcam",
+		"textBottom": "Marktplatz",
+		"value": "Heilbronn",
 		"unit": "",
 		"changePerDay": "",
 		"format": "string",

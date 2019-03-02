@@ -17,6 +17,8 @@
 		"heilbronn/fahrschein.json",
 		"heilbronn/luftqualitaet.json",
 		"heilbronn/buga-countdown.json",
-		"heilbronn/experimenta-countdown.json"
+		"heilbronn/experimenta-countdown.json",
+		"heilbronn/webcam-heilbronn.json"
+		
 	]
 }
