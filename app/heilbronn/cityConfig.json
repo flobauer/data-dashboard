@@ -11,15 +11,6 @@
 	"cards": [
 		"heilbronn/code-for-heilbronn.json",
 		"vienna/help.json",
-<<<<<<< HEAD
-		"heilbronn/einwohner-unter-14-jahren.json",
-		"heilbronn/einwohner-unter-18-jahren.json",
-		"heilbronn/einwohner.json",
-		"heilbronn/prozent-frauen.json",
-		"heilbronn/stolpersteine.json",
-		"heilbronn/bussgelder.json",
-=======
->>>>>>> 199777543dd0bebd70582372446ce01e083f7ebd
 		"heilbronn/kinder-vorname-m.json",
 		"heilbronn/trees-biberach.json",
 		"heilbronn/webcam.json",
