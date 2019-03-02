@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Heilbronn"
+	},
+	"portal": {
+		"url": "",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Noch",
+		"textBottom": "bis die Experimenta eröffnet",
+		"value": "2019-03-31",
+		"unit": "",
+		"changePerDay": "",
+		"format": "date",
+		"background": "img/experimenta.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Code for Heilbronn wird sich dort im Makerspace treffen und an Open Data Projekten arbeiten",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
