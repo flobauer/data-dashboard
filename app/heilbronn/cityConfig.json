@@ -15,7 +15,8 @@
 		"heilbronn/kinder-vorname-m.json",
 		"heilbronn/kinder-vorname-w.json",
 		"heilbronn/fahrschein.json",
-		"heilbronn/luftqualitaet.json"
-
+		"heilbronn/luftqualitaet.json",
+		"heilbronn/buga-countdown.json",
+		"heilbronn/experimenta-countdown.json"
 	]
 }
