@@ -1,0 +1,30 @@
+
+
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://www.heilbronn.de/no_cache/rathaus/buergerservice-a-z/inhalt/gewerbesteuer.html",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Der aktuelle Gewerbesteuersatz wurde am 19.12.2016 festgelegt",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "Gewerbesteuerhebesatz beträgt",
+        "textBottom": "der Steuermessbeträge",
+        "value": "420",
+        "unit": "v.H.",
+        "changePerDay": "",
+        "format": "int",
+        "background": "img/coin.svg",
+        "color": "#000000"
+    }
+}

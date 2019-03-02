@@ -1,0 +1,29 @@
+
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://stadtbibliothek.heilbronn.de/ueber_uns/Pressemitteilungen/_files/OHF%20Jahrespressemitteilung%2015.pdf",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Insgesamt wurden 221.218 Bücher im Jahr 2015 ausgeliehen",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "Es werden gerade",
+        "textBottom": "Bücher ausgeliehen",
+        "value": "0",
+        "unit": "",
+        "changePerDay": "606",
+        "format": "int",
+        "background": "img/book.svg",
+        "color": "#000000"
+    }
+}

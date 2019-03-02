@@ -1,0 +1,28 @@
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://www.heilbronn.de/no_cache/rathaus/buergerservice-a-z/inhalt/hundesteuer.html",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Weitere Hunde kosten 240 EUR und gefährliche Hunde 300 EUR",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "Die Hundesteuer beträgt",
+        "textBottom": "für den ersten Hund",
+        "value": "110",
+        "unit": "€",
+        "changePerDay": "",
+        "format": "int",
+        "background": "img/animals.svg",
+        "color": "#000000"
+    }
+}

@@ -395,3 +395,10 @@ figure.blueprint:after {
 		        transform: rotate(359deg);
 	}
 }
+
+.webcam {
+	background-image: url(https://webcam.heilbronn.de/current.jpg?1551545108623) !important;
+	background-size: 202px 164px !important;
+	background-repeat: no-repeat !important;
+
+}

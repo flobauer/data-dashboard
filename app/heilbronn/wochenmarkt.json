@@ -1,0 +1,28 @@
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://www.heilbronn.de/no_cache/tourismus/veranstaltungen/veranstaltungskalender.html",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Bitte den Veranstaltungskalender vorher prüfen.",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "Der Wochenmarkt findet",
+        "textBottom": "statt",
+        "value": "Di, Do + Sa",
+        "unit": "",
+        "changePerDay": "",
+        "format": "string",
+        "background": "img/market.svg",
+        "color": "#000000"
+    }
+}

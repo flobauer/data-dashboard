@@ -1,0 +1,31 @@
+
+{
+    "location": {
+        "country": "Germany",
+        "city": "Heilbronn"
+    },
+    "portal": {
+        "url": "https://webcam.heilbronn.de",
+        "title": "",
+        "description": "",
+        "license": "",
+        "licenseURL": ""
+    },
+    "back": {
+        "text": "Die Webcam zeigt die Ansicht vom Martplatz",
+        "color": "#000000",
+        "cssClass": ""
+    },
+    "front": {
+        "textTop": "",
+        "textBottom": "",
+        "value": "",
+        "unit": "",
+        "changePerDay": "",
+        "format": "string",
+        "background": "img/webcam.svg",
+        "color": "#000000",
+        "image": "https://webcam.heilbronn.de/current.jpg?1551545108623",
+        "cssClass" : "webcam"
+    }
+}
