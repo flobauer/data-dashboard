@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Heilbronn"
+	},
+	"portal": {
+		"url": "https://overpass-turbo.eu/s/GAl",
+		"title": "Overpass API",
+		"description": "Die Overpass API von Open Street Map",
+		"license": "ODbL",
+		"licenseURL": "https://opendatacommons.org/licenses/odbl/",
+		"attribution": "© OpenStreetMap-Mitwirkende",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "In der Innenstadt gibt es",
+		"textBottom": "Restaurants",
+		"value": "128",
+		"unit": "",
+		"changePerDay": "",
+		"format": "int",
+		"background": "img/food.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Danach folgt Sontheim mit 13, Neckargartach mit 11 und Böckingen mit 11 Restaurants",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
